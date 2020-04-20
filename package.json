@@ -1,0 +1,19 @@
+{
+  "name": "mvp_project",
+  "version": "1.0.0",
+  "description": "A project where a group of individuals Achieve Greatness",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clubthanos/mvp_project.git"
+  },
+  "author": "clubthanos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clubthanos/mvp_project/issues"
+  },
+  "homepage": "https://github.com/clubthanos/mvp_project#readme"
+}
